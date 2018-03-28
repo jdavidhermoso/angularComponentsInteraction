@@ -1,3 +1,7 @@
+
+## Purpose
+The purpose of this repository is to learn how to communicate a child component with its parent using a shared service. 
+
 # ComponentsInteraction
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
